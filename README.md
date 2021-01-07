@@ -1,6 +1,8 @@
 # exercise-markdown
 
-**Description of the repository** : 
+**Description of the repository** :
+
+This is our second excercise using git and Markdown 
 
 **Members of the group** : Patricia, Adrien, Olivier.
 
