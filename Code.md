@@ -1,10 +1,10 @@
 
 ```html
 <html>
-<head>
+<body>
 <script type="text/javascript">
     alert("Hello Welcome Woods on our Markdown excercice !");
 </script>
-</head>
+</body>
 </html>    
 ```
