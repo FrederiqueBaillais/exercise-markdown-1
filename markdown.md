@@ -1,4 +1,4 @@
-## An unordered list and a list within a ist:
+## An unordered list and a list within a list:
 
 <ul> 
     <li>Test</li>
