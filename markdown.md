@@ -8,13 +8,13 @@ Markdown applications use a Markdown processor to take the formatted text and ou
 ## An unordered list and a list within a list:
 
 <ul> 
-    <li>Test</li>
-    <li>Test</li>
-    <li>Test</li>
-    <li> Test
+    <li>Listed Item</li>
+    <li>Listed Item</li>
+    <li>Listed Item</li>
+    <li>Listed Item
         <ul>
-    		<li>Test</li>
-    		<li>Test</li>
+    		<li>Item in a sub list</li>
+    		<li>Item in a sub list</li>
     	</ul>
     </li>
 </ul>
@@ -22,9 +22,9 @@ Markdown applications use a Markdown processor to take the formatted text and ou
 ## An ordered list:
 
 <ol> 
-    <li>Test</li>
-    <li>Test</li>
-    <li>Test</li>
+    <li>Element 1</li>
+    <li>Element 2</li>
+    <li>Element 3</li>
  </ol>
 
 
