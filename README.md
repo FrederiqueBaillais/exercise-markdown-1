@@ -2,9 +2,14 @@
 
 **Description of the repository** :
 
-This is our second excercise using git and Markdown 
+This is our second excercise using git and Markdown. 
 
-This is our second excercise using git and Markdown
+
+Inside de Markdown.md file you will find formated text with Markdown.
+
+
+As well as the syntaxes to produce it.
+
 
 **Members of the group** : 
 * Patricia
