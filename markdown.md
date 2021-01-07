@@ -28,8 +28,6 @@ Markdown applications use a Markdown processor to take the formatted text and ou
  </ol>
 
 
-Here'a link to the [README.md](https://github.com/Olivier-BeCode/exercise-markdown/blob/master/README.md) file
-
 ### This is a markdown image.
 
 ![](https://github.com/Olivier-BeCode/exercise-markdown/blob/pat/assets/1200px-Markdown-mark.svg.png)
@@ -47,4 +45,6 @@ Here'a link to the [README.md](https://github.com/Olivier-BeCode/exercise-markdo
 </body>
 </html>    
 ```
+
+Here'a link to the [README.md](https://github.com/Olivier-BeCode/exercise-markdown/blob/master/README.md) file
 
