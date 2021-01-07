@@ -1,4 +1,4 @@
-## Unordered List and List Within a List
+## An unordered list and a list within a ist:
 
 <ul> 
     <li>Test</li>
@@ -12,7 +12,7 @@
     </li>
 </ul>
 
-## Ordered List
+## An ordered list:
 
 <ol> 
     <li>Test</li>
