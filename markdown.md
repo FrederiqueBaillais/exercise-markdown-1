@@ -55,7 +55,7 @@ The markdown syntax for this type of list is :
 
 ## This is a markdown image.
 
-![static image](https://github.com/Olivier-BeCode/exercise-markdown/blob/pat/assets/1200px-Markdown-mark.svg.png)
+![static image](assets/1200px-Markdown-mark.svg.png)
 
 The markdown syntax for static images is :
 
